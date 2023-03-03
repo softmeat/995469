@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>main</title>
+<title>menu2</title>
 </head>
 <body>
-	<h1>Git branch test project</h1>
-	<button onclick="location.href='menu2'">두번째메뉴</button>
+	<h1 align="center">${ message }</h1>
+
 </body>
 </html>
