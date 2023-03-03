@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>main</title>
+<title>menu1</title>
 </head>
 <body>
-	<h1>Git branch test project</h1>
-	<button onclick>123</button>
+	<h1 align="center">${ message }</h1>
+
 </body>
 </html>
