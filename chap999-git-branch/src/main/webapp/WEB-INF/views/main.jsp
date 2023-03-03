@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>Git branch test project</h1>
-	<button onclick>123</button>
+	<button onclick="location.href='menu1'">첫번째메뉴</button>
 </body>
 </html>
