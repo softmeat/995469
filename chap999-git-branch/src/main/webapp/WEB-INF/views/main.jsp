@@ -8,6 +8,5 @@
 </head>
 <body>
 	<h1>Git branch test project</h1>
-	<button onclick="location.href='menu2'">두번째메뉴</button>
 </body>
 </html>
